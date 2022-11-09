@@ -6,9 +6,10 @@ class Main {
         int result = 0;
         int num1;
 
-        int test = 90;
+        int test = 5;
 
         result = number/test;
         System.out.println("ผลลัพ "+result);
+        
     }
 }
