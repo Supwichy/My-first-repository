@@ -7,5 +7,8 @@ class Main {
         int num1;
 
         int test = 90;
+
+        result = number/test;
+        System.out.println("ผลลัพ "+result);
     }
 }
