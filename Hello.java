@@ -5,5 +5,7 @@ class Main {
         int number = 50;
         int result = 0;
         int num1;
+
+        int test = 90;
     }
 }
