@@ -6,6 +6,6 @@ class Main {
         int result = 0;
         int num1;
 
-        int test = 90;
+        int test = 5;
     }
 }
