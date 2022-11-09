@@ -11,5 +11,11 @@ class Main {
         result = number/test;
         System.out.println("ผลลัพ "+result);
         
+        for (int i=1;i<2;i++){
+            System.out.print("L");
+            System.out.print("O");
+            System.out.println("L");
+        }
+    
     }
 }
